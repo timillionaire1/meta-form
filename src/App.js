@@ -86,7 +86,7 @@ const getIsFormValid = () => {
                setEmail(e.target.value); 
              }} 
              placeholder="Email address" 
-           autocomplete/> 
+           /> 
          </div> 
          <div className="Field"> 
            <label> 
